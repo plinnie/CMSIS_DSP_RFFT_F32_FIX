@@ -1,10 +1,9 @@
 /*
- * rfft_fast_init_lowmem.h
  *
- *  Created on: 17 mei 2018
- *      Author: Admin
+ *  Created on: 17 May 2018
+ *      Author: Vincent van Beveren
+ *              vvanbeveren [at] gmail.com
  */
-
 #ifndef RFFT_FAST_INIT_CONSTS_F32_H_
 #define RFFT_FAST_INIT_CONSTS_F32_H_
 
@@ -19,7 +18,5 @@ extern const arm_rfft_fast_instance_f32 arm_rfft_fast_f32_len256;
 extern const arm_rfft_fast_instance_f32 arm_rfft_fast_f32_len128;
 extern const arm_rfft_fast_instance_f32 arm_rfft_fast_f32_len64;
 extern const arm_rfft_fast_instance_f32 arm_rfft_fast_f32_len32;
-
-
 
 #endif /* RFFT_FAST_INIT_CONSTS_F32_H_ */
