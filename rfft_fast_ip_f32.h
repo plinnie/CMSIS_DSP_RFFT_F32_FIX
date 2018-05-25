@@ -1,8 +1,9 @@
 /*
  * stagemerge_ip_f32.h
  *
- *  Created on: 17 mei 2018
- *      Author: Admin
+ *  Created on: 17 May 2018
+ *      Author: Vincent van Beveren
+ *              vvanbeveren [at] gmail.com
  */
 
 #include "arm_math.h"
