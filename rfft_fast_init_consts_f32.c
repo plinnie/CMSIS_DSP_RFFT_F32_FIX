@@ -1,8 +1,8 @@
 /*
- * rfft_fast_init_consts_32.c
  *
- *  Created on: 17 mei 2018
- *      Author: Admin
+ *  Created on: 17 May 2018
+ *      Author: Vincent van Beveren
+ *              vvanbeveren [at] gmail.com
  */
 
 #include "arm_math.h"
