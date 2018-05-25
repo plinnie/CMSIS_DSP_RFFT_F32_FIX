@@ -1,3 +1,10 @@
+/*
+ *
+ *  Created on: 17 May 2018
+ *      Author: Vincent van Beveren
+ *              vvanbeveren [at] gmail.com
+ */
+
 #include <rfft_fast_ip_f32.h>
 #include <stdio.h>
 #include <stdbool.h>
