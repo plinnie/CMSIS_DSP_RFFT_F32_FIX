@@ -47,8 +47,8 @@ static inline void stage_merge_single(cplx32_t pA, cplx32_t pB,
     s = twI * t1b;
 
     if (merge) {
-        *pOut++ = 0.5f * (xAR + xBR - r - s ); //xAR
-        *pOut++ = 0.5f * (xAI - xBI + t - u ); //xAI
+        pOut[0] = 0.5f * (xAR + xBR - r - s ); //xAR
+        pOut[1] = 0.5f * (xAI - xBI + t - u ); //xAI
     }
     else
     {
